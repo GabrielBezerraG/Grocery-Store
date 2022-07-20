@@ -1,0 +1,36 @@
+.menu {
+   background-color: var(--light-yellow);
+   padding: 1rem 0.8rem 2rem;
+   line-height: 1.75rem;
+   position: absolute;
+   width: 100%;
+   box-sizing: border-box;
+}
+
+.menu__title {
+   font-size: var(--font3);
+   font-weight: 500;
+   margin-bottom: 0.5rem;
+   display: inline-block;
+}
+
+.menu__item-link {
+   text-decoration: none;
+   color: inherit;
+}
+
+@media screen and (min-width: 768px) {
+   .menu {
+      padding: 1rem 1rem 2rem;
+   }
+}
+
+@media screen and (min-width: 1440px) {
+   .menu {
+      padding: 1rem 1.5rem 2.5rem;
+   }   
+
+   .menu__title {
+      margin-bottom: 1rem;
+   }
+}
