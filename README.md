@@ -12,6 +12,7 @@ Página web de uma hortifruti desenvolvida com HTML, CSS e JavaScript que faz re
 
 ## 🚀 Funcionalidades
 - Adicionar produtos ao carrinho de compras
+- Selecionar a quantidade de um produto
 - Buscar um produto pela barra de pesquisa
 - Ver todos os produtos de uma categoria
 - Navegar pelo teclado usando as teclas tab e enter
@@ -43,6 +44,7 @@ Grocery store website developed with HTML, CSS and JavaScript that makes GET req
 
 ## 🚀 Functionalities
 - Add products to shopping cart
+- Select the quantity of a product
 - Search for a product through the search bar
 - See all products from a category
 - Keyboard navigation with tab and enter keys
