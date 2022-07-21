@@ -1,7 +1,7 @@
 # Grocery Store &nbsp;🇧🇷
 Página web de uma hortifruti desenvolvida com HTML, CSS e JavaScript que faz requisições do tipo GET para um arquivo JSON no próprio repositório, converte os dados em objetos e a partir deles cria as categorias e produtos dinamicamente. [Link para a página](https://gabrielbezerrag.github.io/Grocery-Store/home.html)
 
-## Tecnologias Utilizadas
+## 🔧 Tecnologias Utilizadas
 - Font Awesome para os ícones
 - Arquivo JSON para consumo de dados
 - Fetch API
@@ -10,7 +10,7 @@ Página web de uma hortifruti desenvolvida com HTML, CSS e JavaScript que faz re
 - Flexbox
 - Módulos ES6
 
-## Funcionalidades
+## 🚀 Funcionalidades
 - Adicionar produtos ao carrinho de compras
 - Buscar um produto pela barra de pesquisa
 - Ver todos os produtos de uma categoria
@@ -32,7 +32,7 @@ Não se esqueça! Se você abrir o arquivo HTML diretamente no browser não cons
 # Grocery Store &nbsp;🇺🇸
 Grocery store website developed with HTML, CSS and JavaScript that makes GET requests to a JSON file on its own repository, converts the data into objects and from them creates the categories and products dynamically. [Link to the page](https://gabrielbezerrag.github.io/Grocery-Store/home.html)
 
-## Used Technologies
+## 🔧 Used Technologies
 - Font Awesome for the icons
 - JSON file for data consumption
 - Fetch API
@@ -41,7 +41,7 @@ Grocery store website developed with HTML, CSS and JavaScript that makes GET req
 - Flexbox
 - ES6 Modules
 
-## Functionalities
+## 🚀 Functionalities
 - Add products to shopping cart
 - Search for a product through the search bar
 - See all products from a category
