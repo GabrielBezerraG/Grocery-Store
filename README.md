@@ -8,6 +8,7 @@ Página web de uma hortifruti desenvolvida com HTML, CSS e JavaScript que faz re
 - Expressões regulares
 - CSS Grid
 - Flexbox
+- Media Queries (design responsivo)
 - Módulos ES6
 
 ## 🚀 Funcionalidades
@@ -40,6 +41,7 @@ Grocery store website developed with HTML, CSS and JavaScript that makes GET req
 - Regular expressions
 - CSS Grid
 - Flexbox
+- Media Queries (responsive design)
 - ES6 Modules
 
 ## 🚀 Functionalities
