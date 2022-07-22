@@ -1,5 +1,5 @@
 # Grocery Store &nbsp;🇧🇷
-Página web de uma hortifruti desenvolvida com HTML, CSS e JavaScript que faz requisições do tipo GET para um arquivo JSON no próprio repositório, converte os dados em objetos e a partir deles cria as categorias e produtos dinamicamente. [Link para a página](https://gabrielbezerrag.github.io/Grocery-Store/home.html)
+Página web de uma hortifruti desenvolvida com HTML, CSS e JavaScript que faz requisições do tipo GET para um arquivo JSON no próprio repositório, converte os dados em objetos e a partir deles cria as categorias e produtos dinamicamente. Todos os produtos adicionados ao carrinho de compras são armazenados no local storage. [Link para a página](https://gabrielbezerrag.github.io/Grocery-Store/home.html)
 
 ## 🔧 Tecnologias Utilizadas
 - Font Awesome para os ícones
@@ -32,7 +32,7 @@ Não se esqueça! Se você abrir o arquivo HTML diretamente no browser não cons
 <p>&nbsp;</p>
 
 # Grocery Store &nbsp;🇺🇸
-Grocery store website developed with HTML, CSS and JavaScript that makes GET requests to a JSON file on its own repository, converts the data into objects and from them creates the categories and products dynamically. [Link to the page](https://gabrielbezerrag.github.io/Grocery-Store/home.html)
+Grocery store website developed with HTML, CSS and JavaScript that makes GET requests to a JSON file on its own repository, converts the data into objects and from them creates the categories and products dynamically. All products added to the shopping cart are stored in the local storage. [Link to the page](https://gabrielbezerrag.github.io/Grocery-Store/home.html)
 
 ## 🔧 Used Technologies
 - Font Awesome for the icons
